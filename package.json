@@ -1,0 +1,28 @@
+{
+  "name": "rout-planner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "optimalRoutes.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juaryimami/rout-planner.git"
+  },
+  "author": "Juhar Yimer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juaryimami/rout-planner/issues"
+  },
+  "homepage": "https://github.com/juaryimami/rout-planner#readme",
+  "dependencies": {
+    "jest": "^29.4.3"
+  },
+  "devDependencies": {
+    "jasmine": "^4.5.0"
+  }
+}
